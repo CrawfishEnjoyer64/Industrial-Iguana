@@ -452,9 +452,7 @@
         industries_total_div.setAttribute("style", "display: block");
 
         if(industries_total_div.innerHTML == ""){
-            const scriptName = "industrialiguana"
             const nationName = nationLook;
-            const userName = "mechanocracy"
             const scales = "16+10+12+18+24+11+22+25+13+21+20+14+23+19+15"
             const mode = "history"
 
